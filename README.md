@@ -1,0 +1,2 @@
+# Mongo-News-Scrape
+This application will scrape news from a website and provide links to a user. The user is then able to save stories to read later, and add and delete notes to the article. The app also won't let there be duplicate articles so a user can only scrape once per day. This app uses, express, express-handlebars, mongoose, body-parser, cheerio, and request. It is deployed on Heroku at:
