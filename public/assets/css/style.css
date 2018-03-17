@@ -1,0 +1,33 @@
+body {
+    background-image: url("/assets/images/mobile-tribune.jpg");
+    padding-top: 70px;
+}
+
+.deleteNote {
+	display: inline-block;
+}
+
+.previousNotes {
+    display: inline-block;
+    width: 90%
+}
+
+#scrape {
+    margin: 8px 0px;
+}
+
+.jumbotron {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.navbar {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.panel {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.panel-body {
+  font-family: 'IBM Plex Mono', monospace;
+}
